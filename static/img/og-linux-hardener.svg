@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#0b1118"/><stop offset="1" stop-color="#101d27"/></linearGradient></defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <circle cx="1050" cy="100" r="220" fill="#7ee787" fill-opacity=".08"/>
+  <circle cx="980" cy="540" r="260" fill="#5cc8ff" fill-opacity=".07"/>
+  <text x="90" y="235" font-family="Inter,Arial,sans-serif" font-size="78" font-weight="800" fill="#f2f5f7">Linux Hardener</text>
+  <text x="90" y="315" font-family="Inter,Arial,sans-serif" font-size="34" fill="#a9b7c4">Audit · conformité · remédiation · CI/CD</text>
+  <rect x="90" y="370" width="430" height="72" rx="18" fill="#151f2b" stroke="#273847"/>
+  <text x="120" y="416" font-family="ui-monospace,monospace" font-size="28" fill="#7ee787">Debian 13 · Linux Hardener 0.6</text>
+</svg>
