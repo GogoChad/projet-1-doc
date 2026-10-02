@@ -1,4 +1,4 @@
-# Linux Hardener — Documentation
+# Linux Hardener |  Documentation
 
 Documentation technique de **Linux Hardener 0.6.0**, outil d’audit, de conformité et de remédiation pour systèmes Linux.
 
